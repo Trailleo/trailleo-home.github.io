@@ -1,0 +1,102 @@
+﻿#,Slide,What the slide should have,Things to write,comment,References,HS comments
+1,Company Purpose/Mission/Vision,define the company in a single statement,"To make venturing into wilderness easier and safer for outdoor enthusiasts. 
+Easier - organise all the information needed to head outdoors and make it useful and accessible to all.
+Safer - Use technology to make mountains safe
+",,,
+2,Problem,"Describe the pain points of customer.
+How do they tackle it currently
+Validate the problem with real life examples","Unorganised information, information related to treks is scattered and not easy to understand. Even when you decide to head outdoors.
+Going outdoors is always going to be a risky activity as you will be facing nature in the rawest form.
+Customers currently tackle this by using the bits of information present and hiring local guides to lead the trails","To make venturing into wilderness easier and safer for outdoor enthusiasts.
+Easier - organise all the information needed to head outdoors and make it useful and accessible to all.
+Safer - Use technology to make mountains safe",,"What do you mean by information? 
+I see two things: 
+1) Trek discovery - People don't know about the existing treks 
+2) Trek guide - How/what/when of the trek"
+3,Solution,Demonstrate value proposition to make customers life better. show where the product fits. Provide use cases,"Create an app that provides every possible information needed to trod the trail with confidence. Use technology to inform customers about risky section, incoming bad-weather condition, network location to make emergency calls, emergency contact details and keep their loved ones informed about their journey.
+This will help customers plan their outdoor trips in a better way, never get lost on the trail, how to keep themselves safe, and what to do in-case of emergency situations.","to enhance the experience of adventure enthusiasts (TG)....
+
+...by making information...
+- consolidated
+- comprehensive
+- readily available
+- easy to comprehend
+
+.. through a technology intervention (app) ...
+
+.. thereby making outdoors
++ fun
++ safe
++ accessible",,"Product market fit. 
+
+Trod the trail with ""confidence?"" 
+
+Divide the app features into lifecycle journey of a customer - from when he looks for an app to when he returns from one. How can your app help at each stage and make it more EASY and SAFER for the trekker. 
+
+"
+,Why Now?,"Set-up historical evolution of your category.
+Define recent trends that make your solution possible",,"+ Evolution of adventure tourism
++ advent of individual adventure traveller","Articles also have some figures which might help in the deck.
+
+https://www.outdoorjournal.com/featured/events/future-adventure-travel-india/  
+
+https://www.outdoorjournal.com/featured/opinion-editorial/mass-trekking-india-disease-well-suffer/",potential market in $value
+,Market Size,"Identify/Profile customer you cater to
+Calculate TAM,SOM,SAM
+
+Market segments + app positioning","Profile - Amateur outdoor enthusiast from age group 24-35, who spend minimum 20-30k/activity in the himalayas or 2-5k for trip in the western/eastern ghats. Total people who trek outdoors currently 1.5 million/year and number of trip are increasing from 1 to 2-5/year","
+Could start with weekend adventure enthusiasts - probably looking for a weekend getaway in nearby spots?",,"Persona very limited. "
+,Competition,"List of competitors
+Competitive advantage
+
++Barriers to entry (knowhow required, niche space, advantage of tech, first mover advantage)","1. Trekking companies in india. - advantage we have - they cater to only few set of treks where they have operations, their information is not well organised and is difficult to understand. They are more involved into their own operations
+2. Outdoor navigation companies in US,europe. -  advantage we have - They do not have a base in India and dont know the indian market very well.","Should ideally also compare India vs US vs Europe market in terms of:
+- Type of trails
+- Organization of adventure tourism industry
+
+Highlight key differences in India market
+
+There by concluding why India market is unique + vast + requires its own solution",CDC,Lets discuss this section tomorrow.
+,Product,"Product line - form factor, functionality, features, architecture, IP
+Product development Roadmap","form factor - App
+Feature Roadmap with milestones
+Phase - 1 (MVP)  - Explore Page, Trek Info page, Map, 50 Trails
+Phase - 2 - User profile, SafetyTracking, Track-buddies, 250 Trails
+Phase - 3 - 3D, AR, Booking camping & services, 700 trails
+Phase - 4 - Multi-lingual, Other outdoor activities- cycling, skiing, roadtrips, backpacking, android Watch UI, 1500 trails
+","+ Build a community?
++ Need to estimate phase wise users or users over months
+
++ Scalability
++ Standardization of data collection",,
+,Business Model,"1. Revenue Model
+2. Pricing
+3. Average account size/ lifetime value
+4. Sales and Distribution model
+5. Customer/pipeline list","Revenue Model
+1. Guest Users/Unpaid Registered Users - Can explore trek and see information - relevant advertisements from trek organisers or gear companies. 
+2. Registered Paid Users - Can buy a map for a given trail or take early subscription - Gets to download map, safetyTracking, Weather updates feature, 3D maps & AR feature.
+3. Booking camping sites for weekend hikes - flat 10% commission.
+
+Pricing 
+Per trek map - 200 rs for High altitude/ 80 for low altitude
+Yearly Subscription fee - 300 rs
+
+Sales & Marketing
+1. Social media Marketing
+2. Influencer marketing - We are trek leaders who have led 1000 people in the mountains.
+3. Physical marketing at base villages of treks
+4. Referral programs
+5. Exploration Programs - Explore treks get lifetime access to app
+
+Customer List
+B2C - target customers who are going on a trek through social media
+B2B - Trekking organisations, National parks
+",,,
+,Market Adoption,"Expansion strategy. Phases, users etc. should be separate from business model which talks about say pay per hike, membership etc.
+
+Customer acquisition",,,,
+,Team,Founders & Managment,"Mihir Umarye - BITSian, CFA l2, ex-Data Science, Serial Traveller - Backpacker and HIker, Currently Outdoor Trip Leader in the Himalayas
+Rajarshi Deb - Write some jazz pliz",,,
+,Financials,Cash burnz,,,,
+,,,,,,
